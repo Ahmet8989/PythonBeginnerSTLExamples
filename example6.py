@@ -1,6 +1,3 @@
-from operator import le
-
-
 my_list   = [4, 5, 6]
 my_list_2 = ['Ahmet', 2, True, 2.3]
 my_list_3 = ['one', 'two', 'three']
